@@ -66,15 +66,7 @@ The implementation includes multiple reward functions:
 - Soft format reward
 - XML count reward
 
-## Results
 
-Performance improvements on various mathematical reasoning datasets:
-
-| Dataset | Base Model | GRPO |
-|---------|------------|------|
-| GSM8K | 57.09 | 66.94 |
-| MathQA | 38.86 | 52.96 |
-| ASDiv | 70.33 | 76.27 |
 
 ## License
 
